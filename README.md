@@ -1,5 +1,5 @@
 # SIFT_Demo_OpenCV
-#SIFT Demo - BF and kNN Matcher
+#SIFT Demo - BF and FLANN based Matcher
 
 
 #Results
